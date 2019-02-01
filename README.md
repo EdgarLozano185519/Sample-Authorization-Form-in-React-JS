@@ -1,0 +1,4 @@
+# Authorization Form Sample
+A sample application using ReactJS. This is a practice exercise designed to incorporate components and render them.
+## Explanation
+This is not a particularly interesting project. This  is just an exercise in learning how to use React components. This code base is from CodeCademy projects but with work filled in as appropriate from me. If you stumble across this and you are working on the CodeCademy curriculum for ReactJS, I strongly advise that you do not look at this code, for it offers a solution that you might miss out on if not doing it on your own efforts. The purpose is to simply show contact information if the right password is entered into the form. Setting up React is not within the scope of this explanation. The correct password is "swordfish" without the quotes.
